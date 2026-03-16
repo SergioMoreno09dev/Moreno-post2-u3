@@ -20,8 +20,7 @@ El resultado es un dashboard con navegación lateral, barra superior, tarjetas d
 
 ## Instrucciones de ejecución
 1. Clonar o descargar este repositorio:
-   ```bash
-   git clone https://github.com/tuusuario/moreno-post2-u3.git
+   git clone https://github.com/SergioMoreno09dev/Moreno-post2-u3.git
 
 ![Vista previa del perfil](img/capturaPc.png)
 
